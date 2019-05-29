@@ -1,9 +1,5 @@
 任务1代码：
-    data_util.py
-    
-    train.py
-    
-    predict.py
+    data_util.py、 train.py、predict.py
     
     
 任务4代码：
