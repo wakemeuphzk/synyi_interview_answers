@@ -28,4 +28,4 @@ if __name__ == '__main__':
     print(result.columns)
     result.columns = ['id','lr','xgboost','rf']
     print(result)
-    result.to_csv(data_util.model_result)
+    result.to_csv(data_util.model_result,index=None)
