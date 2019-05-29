@@ -29,6 +29,8 @@ synyi_interview_answers
         
   部署上线：[机器学习（十四）：机器学习的跨平台部署——PMML](https://blog.csdn.net/hzk1562110692/article/details/89321848)
         这一部分如果是设计到web交互，需要找到对应的接口对接人，如python+java工程师等处理。
+        
+  （注：后续数据预处理+训练调参+部署上线只列了大致提纲，细节有待时间完善）
 
 
 # 任务4
