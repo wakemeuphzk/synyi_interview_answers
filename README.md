@@ -3,7 +3,7 @@ synyi_interview_answers
 
 # 任务1
 [代码](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/code)
-（注：之前有根据缺失率筛选出了8个特征，后续觉得可以用sklearn的api，由于下班后时间有限，*数据预处理部分代码（data_util.py）*来不及修改完全，现在提交的代码可能会报错，给您带来的不便，很抱歉，希望有机会可以面谈讲述自己的思路）
+（注：之前有根据缺失率筛选出了8个特征，后续觉得可以用sklearn的api，由于下班后时间有限，*数据预处理部分代码*（data_util.py）来不及修改完全，现在提交的代码可能会报错，给您带来的不便，很抱歉，希望有机会可以面谈讲述自己的思路）
 
 [模型](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/model)
 
