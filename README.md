@@ -3,12 +3,14 @@ synyi_interview_answers
 
 # 任务1
 [代码](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/code)
+
 [模型](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/model)
-[运行结果](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/result)
+
+[运行结果](https://github.com/wakemeuphzk/synyi_interview_answers/tree/master/result/prediciton.csv)
 
 
 # 任务2
-  如果需要在产品中使用，我会推荐采用逻辑回归模型，因为数据量3000多条，筛选后特征20以内，并不是很庞大的数据量，不需要采用比较复杂的算法模型。
+  如果需要在产品中使用，我会推荐采用逻辑回归模型，因为数据量3000多条，筛选后特征20以内，并不是很庞大的数据量，不需要采用特别复杂的算法模型。
 
 
 
