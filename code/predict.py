@@ -23,8 +23,8 @@ if __name__ == '__main__':
     print('prob_lr:', prob_lr[:,1])
     prob_rf = predict_by_rf(x_predict)
     prob_xgboost = predict_by_xgboost(x_predict)
-    result = pd.concat([id_predict,pd.DataFrame(prob_lr[:,1]),pd.DataFrame(prob_xgboost[:,1]),
-                        pd.DataFrame(prob_rf[:,1])],axis=1)
+    result = pd.concat([id_predict,pd.DataFrame(prob_lr[:,0]),pd.DataFrame(prob_xgboost[:,0]),
+                        pd.DataFrame(prob_rf[:,0])],axis=1)
     print(result.columns)
     result.columns = ['id','lr','xgboost','rf']
     print(result)
